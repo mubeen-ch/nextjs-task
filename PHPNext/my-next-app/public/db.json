@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Business"
+    },
+    {
+      "id": "2",
+      "name": "Accounting and Finance"
+    },
+    {
+      "id": "3",
+      "name": "Health And Care"
+    }
+  ]
+}
